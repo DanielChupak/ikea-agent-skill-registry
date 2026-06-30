@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # IKEA — Trusted Agent & Skill Registry (Cursor onboarding skill)
 
 A guided, step-by-step workshop that builds a registry of trusted, vetted **agents** and **skills** in Port (EU), with a health/reliability scorecard for each. You run it yourself inside Cursor; it guides you one step at a time.
@@ -53,3 +54,6 @@ You can say **"create it for me"** to have it run the current step's MCP calls, 
 - `SKILL.md` — the orchestrator the agent follows
 - `steps/` — per-step instructions and MCP payloads
 - `VALIDATION.md` — end-to-end acceptance checklist
+=======
+# ikea-agent-skill-registry
+>>>>>>> edbd03ad205b1808b03640cc750369f3ef3cfdd7
